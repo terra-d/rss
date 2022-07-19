@@ -4,7 +4,7 @@
         <title>AWS Service Status(Asia Pacific)</title>
     </head>
     <body>
-        <outline text="AWS Service Status(Asia Pacific)" title="AWS Service Status(Asia Pacific)">
+        <outline text="AWS Service Status (Tokyo)" title="AWS Service Status (Tokyo)">
             <outline
         type="rss"
         text="Amazon CloudFront Service Status"
