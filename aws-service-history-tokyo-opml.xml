@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<opml version="1.0">
+    <head>
+        <title>AWS Service Status(Asia Pacific)</title>
+    </head>
+    <body>
+        <outline text="AWS Service Status(Asia Pacific)" title="AWS Service Status(Asia Pacific)">
+            <outline
+        type="rss"
+        text="Amazon CloudFront Service Status"
+        title="Amazon CloudFront Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/cloudfront.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="Amazon CloudSearch (Tokyo) Service Status"
+        title="Amazon CloudSearch (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/cloudsearch-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="Amazon CloudWatch (Tokyo) Service Status"
+        title="Amazon CloudWatch (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/cloudwatch-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="Amazon DynamoDB (Tokyo) Service Status"
+        title="Amazon DynamoDB (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/dynamodb-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="Amazon Elastic Compute Cloud (Tokyo) Service Status"
+        title="Amazon Elastic Compute Cloud (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/ec2-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="Amazon Elastic Load Balancing (Tokyo) Service Status"
+        title="Amazon Elastic Load Balancing (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/elb-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="Amazon Elastic MapReduce (Tokyo) Service Status"
+        title="Amazon Elastic MapReduce (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/emr-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="Amazon Elastic Transcoder (Tokyo) Service Status"
+        title="Amazon Elastic Transcoder (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/elastictranscoder-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="Amazon ElastiCache (Tokyo) Service Status"
+        title="Amazon ElastiCache (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/elasticache-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="Amazon Glacier (Tokyo) Service Status"
+        title="Amazon Glacier (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/glacier-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="Amazon Kinesis (Tokyo) Service Status"
+        title="Amazon Kinesis (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/kinesis-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="Amazon Redshift (Tokyo) Service Status"
+        title="Amazon Redshift (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/redshift-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="Amazon Relational Database Service (Tokyo) Service Status"
+        title="Amazon Relational Database Service (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/rds-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="Amazon Route 53 Service Status"
+        title="Amazon Route 53 Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/route53.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="Amazon Route 53 Private DNS (Tokyo) Service Status"
+        title="Amazon Route 53 Private DNS (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/route53-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="Amazon Simple Notification Service (Tokyo) Service Status"
+        title="Amazon Simple Notification Service (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/sns-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="Amazon Simple Queue Service (Tokyo) Service Status"
+        title="Amazon Simple Queue Service (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/sqs-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="Amazon Simple Storage Service (Tokyo) Service Status"
+        title="Amazon Simple Storage Service (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/s3-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="Amazon Simple Workflow Service (Tokyo) Service Status"
+        title="Amazon Simple Workflow Service (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/swf-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="Amazon SimpleDB (Tokyo) Service Status"
+        title="Amazon SimpleDB (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/simpledb-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="Amazon Virtual Private Cloud (Tokyo) Service Status"
+        title="Amazon Virtual Private Cloud (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/vpc-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="Amazon WorkSpaces (Tokyo) Service Status"
+        title="Amazon WorkSpaces (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/workspaces-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="Auto Scaling (Tokyo) Service Status"
+        title="Auto Scaling (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/autoscaling-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="AWS CloudFormation (Tokyo) Service Status"
+        title="AWS CloudFormation (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/cloudformation-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="AWS CloudTrail (Tokyo) Service Status"
+        title="AWS CloudTrail (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/cloudtrail-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="AWS Data Pipeline (Tokyo) Service Status"
+        title="AWS Data Pipeline (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/datapipeline-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="AWS Direct Connect (Tokyo) Service Status"
+        title="AWS Direct Connect (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/directconnect-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="AWS Directory Service (Tokyo) Service Status"
+        title="AWS Directory Service (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/directoryservice-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="AWS Elastic Beanstalk (Tokyo) Service Status"
+        title="AWS Elastic Beanstalk (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/elasticbeanstalk-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="AWS Identity and Access Management (Tokyo) Service Status"
+        title="AWS Identity and Access Management (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/iam-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="AWS Import/Export Service Status"
+        title="AWS Import/Export Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/import-export.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="AWS Key Management Service (Tokyo) Service Status"
+        title="AWS Key Management Service (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/kms-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="AWS Management Console Service Status"
+        title="AWS Management Console Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/management-console.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+            <outline
+        type="rss"
+        text="AWS Storage Gateway (Tokyo) Service Status"
+        title="AWS Storage Gateway (Tokyo) Service Status"
+        xmlUrl="https://status.aws.amazon.com/rss/storagegateway-ap-northeast-1.rss"
+        htmlUrl="https://health.aws.amazon.com/health/status"
+      />
+        </outline>
+    </body>
+</opml>
